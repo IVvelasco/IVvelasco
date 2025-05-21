@@ -1,12 +1,12 @@
-# [SEU NOME]
+# Velasco
 
 <div align="center">
   
   ![Matrix Banner](https://capsule-render.vercel.app/api?type=waving&color=0:3FA33F,100:00FF00&height=200&section=header&text=BEM%20VINDO%20À%20MATRIX&fontSize=50&fontColor=c8f0c8&fontAlignY=35&animation=fadeIn)
 
   ```diff
-  + DESENVOLVEDOR [SUA ESPECIALIDADE] +
-  - "Há uma diferença entre conhecer o caminho e percorrer o caminho." -
+  + DESENVOLVEDORA [Backend & Cibersecurity(Purple Team)] +
+  - "The Matrix have you." -
   ```
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
@@ -21,10 +21,10 @@
 
 ```js
 const desenvolvedor = {
-  nome: "[SEU NOME]",
-  area: "[ÁREA DE ATUAÇÃO]",
-  linguagens: ["JavaScript", "Python", "TypeScript", "Java"], // personalize
-  ferramentas: ["React", "Node.js", "Docker", "GitHub"], // personalize
+  nome: "Eduarda Velasco",
+  area: "Formada em Análise e Desenvolvimento de Sistemas",
+  linguagens: [, "Python", "C", "JS+CSS+HTML", "Dart"], // personalize
+  ferramentas: ["React", "Node.js", "Docker", "Flutter",], // personalize
   desafio: "Encontrar glitches na Matrix todos os dias",
 };
 ```
@@ -38,13 +38,12 @@ const desenvolvedor = {
 <div align="center">
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  <!-- Adicione ou remova tecnologias conforme necessário -->
+
   
 </div>
 
@@ -74,8 +73,28 @@ const desenvolvedor = {
 
 <div align="center">
   
-  ![Snake animation](https://github.com/seu-username/seu-username/blob/output/github-contribution-grid-snake-dark.svg)
+## <Binary Matrix/>
+
+<div align="center">
   
+```
+01010111 01000101 01001100 01000011 01001111 01001101 01000101  
+01010100 01001111 00100000 01010100 01001000 01000101 00100000  
+01001101 01000001 01010100 01010010 01001001 01011000 00100001  
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Matrix+Code+NFI&size=25&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=01001110+01000101+01001111;01010100+01001000+01000101+00100000+01001111+01001110+01000101;01000110+01001111+01001100+01001100+01001111+01010111+00100000+01010100+01001000+01000101+00100000+01010111+01001000+01001001+01010100+01000101+00100000+01010010+01000001+01000010+01000010+01001001+01010100" alt="Binary Code Animation" />
+
+<details>
+<summary>Decodificar Mensagem</summary>
+<br>
+WELCOME TO THE MATRIX!<br>
+NEO<br>
+THE ONE<br>
+FOLLOW THE WHITE RABBIT
+</details>
+
+</div>  
 </div>
 
 <br/>
