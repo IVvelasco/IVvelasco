@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Matrix Banner]([https://capsule-render.vercel.app/api?type=waving&color=0:3FA33F,100:00FF00&height=200&section=header&text=BEM%20VINDO%20À%20MATRIX&fontSize=50&fontColor=c8f0c8&fontAlignY=35&animation=fadeIn](https://media.giphy.com/media/S27iRp6ypEcnK/giphy.gif?cid=ecf05e47k7iqb0m2rv6eu3ebdqcwqc9qo11qg3lzb7qdkwjh&ep=v1_gifs_related&rid=giphy.gif&ct=g))
+  ![Matrix Banner]([https://capsule-render.vercel.app/api?type=waving&color=0:3FA33F,100:00FF00&height=200&section=header&text=BEM%20VINDO%20À%20MATRIX&fontSize=50&fontColor=c8f0c8&fontAlignY=35&animation=fadeIn](https://media.giphy.com/media/S27iRp6ypEcnK/giphy.gif?cid=ecf05e47k7iqb0m2rv6eu3ebdqcwqc9qo11qg3lzb7qdkwjh&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
   ```diff
   + DESENVOLVEDORA [Backend & Cibersecurity(Purple Team)] +
