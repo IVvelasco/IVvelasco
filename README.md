@@ -9,7 +9,7 @@
   - "The Matrix have you." -
   ```
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/maria-eduarda-cassol-velasco-da-silva-catanho-07666722b/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/maria-eduarda-cassol-velasco-da-silva-catanho-07666722b/))
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-username)
   [![Email](https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
   
