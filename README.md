@@ -2,8 +2,6 @@
 
 <div align="center">
   
-  ![Matrix Banner]([https://capsule-render.vercel.app/api?type=waving&color=0:3FA33F,100:00FF00&height=200&section=header&text=BEM%20VINDO%20À%20MATRIX&fontSize=50&fontColor=c8f0c8&fontAlignY=35&animation=fadeIn](https://media.giphy.com/media/S27iRp6ypEcnK/giphy.gif?cid=ecf05e47k7iqb0m2rv6eu3ebdqcwqc9qo11qg3lzb7qdkwjh&ep=v1_gifs_related&rid=giphy.gif&ct=g)
-
   ```diff
   + DESENVOLVEDORA [Backend & Cibersecurity(Purple Team)] +
   - "The Matrix have you." -
@@ -33,19 +31,6 @@ const desenvolvedor = {
 
 <br/>
 
-## 🔋 `Tech Stack`
-
-<div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-  
-</div>
 
 <br/>
 
