@@ -17,8 +17,8 @@
 const desenvolvedor = {
   nome: "Eduarda Velasco",
   area: "Formada em Análise e Desenvolvimento de Sistemas",
-  linguagens: [, "Python", "C", "JS+CSS+HTML", "Dart"], // personalize
-  ferramentas: ["React", "Node.js", "Docker", "Flutter",], // personalize
+  linguagens: [, "Python", "C", "JS+CSS+HTML", "Dart"],
+  ferramentas: ["React", "Node.js", "Docker", "Flutter",],
   desafio: "Encontrar glitches na Matrix todos os dias",
 };
 ```
