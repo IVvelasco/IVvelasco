@@ -40,7 +40,7 @@ NEO<br>
 THE ONE<br>
 FOLLOW THE WHITE RABBIT
 </details>
-
+<img src="https://github.com/IVvelasco/IVvelasco/blob/main/assets/a9dab4ab-09a0-48ad-888d-7949f78b389f(1).png">
 </div>  
 </div>
 
