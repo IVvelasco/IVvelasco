@@ -49,7 +49,7 @@ FOLLOW THE WHITE RABBIT
 <div align="center">
   
   ```diff
-  @ @ @ ESCOLHA A PÍLULA VERMELHA @ @ @
+      ESCOLHA A PÍLULA VERMELHA
   ```
   
   ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=seu-username.seu-username&left_color=green&right_color=black)
