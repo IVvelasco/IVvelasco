@@ -1,10 +1,14 @@
 # Velasco
 
 <div align="center">
+  <img src="assets/Captura de tela de 2026-03-15 06-52-15.png">
+  <img src="assets/Captura de tela de 2026-03-15 06-48-46.png">
+</div>
+
+<div align="center">
   
   ```diff
   + DESENVOLVEDORA [Backend & Cibersecurity(Purple Team)] +
-  - "The Matrix have you." -
   ```
   
 </div>
